@@ -1,0 +1,6 @@
+{
+  "name": "InsightForge",
+  "description": "An AI-powered Business Intelligence Platform featuring Conversational Search (RAG), Key Performance Analytics, Chat Assistants, and Predictive Machine Learning Sandboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
